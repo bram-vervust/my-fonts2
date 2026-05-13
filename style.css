@@ -7,3 +7,11 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: "Riesling";
+    src: url("https://bram-vervust.github.io/my-fonts2/riesling.ttf")
+         format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
